@@ -1,4 +1,4 @@
-# Advent of Code 2023 if F#
+# Advent of Code 2023 in F#
 
 Strapped in and ready to fly with [Advent of Code 2023](https://adventofcode.com/2023).
 
